@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @parsard
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web and specially front-end development
+- 🌱 I’m currently learning react-js
 - 📫 How to reach me telegram id @thebjorn_p
 
 <!---
