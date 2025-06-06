@@ -43,8 +43,7 @@ Love open source and tech community work!
 
 ## 📱 Featured Projects
 
-- [Smart Job Portal (Django, Flutter)](https://github.com/your-job-portal)
-- [Awesome Chat App](https://github.com/your-chat-project)
+
 
 > For more, check my pinned repos below!
 
