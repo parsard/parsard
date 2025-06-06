@@ -12,8 +12,8 @@
 - **Flutter** / Dart (advanced, production-level experience)
 - Clean Architecture, Modular App Development
 - RESTful APIs, WebSockets, Push Notifications
-- State Management: Provider, Riverpod, Bloc
-- Firebase, SQLite, Hive
+- State Management: Provider, Bloc
+- Firebase, Hive,Mongo db
 - Git & GitHub, CI/CD pipelines
 - UI / UX with Figma integration
 
