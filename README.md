@@ -36,8 +36,8 @@ Love open source and tech community work!
 
 ## 🌐 Let's Connect!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Gmail Badge](https://img.shields.io/badge/-real.fc.mr.sh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:real.fc.mr.sh@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/parsa-rood-0424bb27a/))
+[![Gmail Badge](https://img.shields.io/badge/-real.fc.mr.sh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:parsaroodhastam@gmail.com)
 
 ---
 
