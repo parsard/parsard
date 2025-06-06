@@ -26,9 +26,9 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-- **Development**: Clean Architecture, Modular Apps, RESTful APIs, WebSockets, Push Notifications  
+- **Development**: Clean Architecture, Modular Apps, RESTful APIs, WebSockets, Push Notifications ,MVVM , MVC 
 - **State Management**: Provider, Bloc  
-- **Database**: Firebase, Hive, MongoDB, SQLite  
+- **Database**: Firebase, Hive, MongoDB,   
 - **CI/CD**: GitHub Actions  
 
 ---
