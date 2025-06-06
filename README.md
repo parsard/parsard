@@ -27,9 +27,9 @@
 </p>
 
 
-- **Development**: Clean Architecture, Modular Apps, RESTful APIs, WebSockets, Push Notifications  
+- **Development**: Clean Architecture, Modular Apps, RESTful APIs, WebSockets, Push Notifications , MVVM , MVC 
 - **State Management**: Provider, Bloc  
-- **Database**: Firebase, Hive, MongoDB, SQLite  
+- **Database**: Firebase, Hive, MongoDB  
 - **CI/CD**: GitHub Actions  
 
 ---
