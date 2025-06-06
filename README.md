@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=200&section=header&text=Hi,%20I%20am%20Parsa!&fontSize=45&fontAlignY=40" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=200&section=header&text=This is,%20I%20am%20Parsa!&fontSize=45&fontAlignY=40" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=22&pause=1000&color=00bcd4&width=430&lines=Flutter+Dev+%7C+Persian+Gulf+University+CS+Grad;Open+Source+Lover+%F0%9F%92%99;Dreamer+%F0%9F%8C%9F+Code+%F0%9F%92%BB+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=22&pause=1000&color=00bcd4&width=430&lines=Flutter+Dev+%7C+Persian+Gulf+Uni+CS+Grad;Open+Source+Lover+%F0%9F%92%99;Dreamer+%F0%9F%8C%9F+Code+%F0%9F%92%BB+Creator" alt="Typing SVG" />
 </p>
 
 <p align="center">
