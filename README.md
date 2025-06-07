@@ -74,8 +74,8 @@
 
 <!-- Replace links with your real repo links and add images if you wish! -->
 <p align="center">
-  <a href="https://github.com/your-job-portal"><img src="https://skillicons.dev/icons?i=django,flutter" height="30"/><br>
-  <b>Smart Job Portal</b></a>  
+  <a href="https://github.com/parsard/weatherApp"><img src="https://skillicons.dev/icons?i=flutter" height="30"/><br>
+  <b>Weather App</b></a>  
   <br><br>
   <a href="https://github.com/parsard/ChatRoom"><img src="https://skillicons.dev/icons?i=flutter" height="30"/><br>
   <b>Awesome Chat App</b></a>
