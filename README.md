@@ -1,3 +1,4 @@
+<!-- Hero Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=200&section=header&text=This-is%20%20%20Parsa!&fontSize=45&fontAlignY=40" alt="header"/>
 </p>
