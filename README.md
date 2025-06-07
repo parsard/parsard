@@ -14,8 +14,6 @@
 
 ## 🛠️ Skills & Tech
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -27,7 +25,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVVM-023430?style=for-the-badge&logoColor=white"/>
 </p>
-
 
 - **Development**: Clean Architecture, Modular Apps, RESTful APIs, WebSockets, Push Notifications , MVVM , MVC 
 - **State Management**: Provider, Bloc  
@@ -63,6 +60,21 @@
 
 ---
 
+## 📊 More Stats & Graphical Screens
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsard&layout=compact&theme=nightowl" alt="Top Languages" />
+  <br><br>
+  <!-- Contribution Calendar -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=parsard&theme=react-dark" alt="Contribution Graph"/>
+  <br><br>
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=parsard&theme=dracula&no-bg=true&margin-w=8" alt="Trophies" />
+</p>
+
+---
+
 ## 🌐 Let's Connect!
 
 <p align="center">
@@ -92,8 +104,6 @@
 - 🏃 I love gym alongside learning frameworks.
 
 ---
-
-
 
 <!-- Banner footer (Optional): -->
 <p align="center">
