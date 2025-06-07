@@ -86,22 +86,12 @@
 ## 🏝️ Fun & Personal
 
 - 💭 “Code is like humor. When you have to explain it, it’s bad.”
-- 😎 I code better with coffee and lo-fi music.
-- 🏃 I love hiking alongside learning frameworks.
+- 😎 I code better with coffee.
+- 🏃 I love gym alongside learning frameworks.
 
 ---
 
-<!-- Persian About (Optional) -->
-<details>
-<summary>👨‍💻 فارسی | کلیک کن!</summary>
-<p>
-فارغ‌التحصیل کامپیوتر از دانشگاه خلیج فارس، علاقه‌مند به توسعه سریع و تمیز اپلیکیشن موبایل با Flutter.<br>
-<br>
-🌟 دنبال کارهای مشترک و هیجان‌انگیز هستم، خوشحال می‌شم همکار و همراه پروژه‌های خفن باشیم!  
-</p>
-</details>
 
----
 
 <!-- Banner footer (Optional): -->
 <p align="center">
