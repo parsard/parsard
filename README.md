@@ -13,9 +13,7 @@
 ---
 
 ## 🛠️ Skills & Tech
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=parsard&theme=nightowl&layout=compact" />
-</p>
+
 
 
 <p align="center">
