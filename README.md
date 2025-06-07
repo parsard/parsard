@@ -77,7 +77,7 @@
   <a href="https://github.com/your-job-portal"><img src="https://skillicons.dev/icons?i=django,flutter" height="30"/><br>
   <b>Smart Job Portal</b></a>  
   <br><br>
-  <a href="https://github.com/your-chat-project"><img src="https://skillicons.dev/icons?i=flutter" height="30"/><br>
+  <a href="https://github.com/parsard/ChatRoom"><img src="https://skillicons.dev/icons?i=flutter" height="30"/><br>
   <b>Awesome Chat App</b></a>
 </p>
 
