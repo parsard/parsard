@@ -67,8 +67,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsard&layout=compact&theme=nightowl" alt="Top Languages" />
   <br><br>
   <!-- Contribution Calendar -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=parsard&theme=react-dark" alt="Contribution Graph"/>
-  <br><br>
+  <p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=parsard&theme=react-dark" alt="Contribution Graph"/>
+</p>
+
   <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=parsard&theme=dracula&no-bg=true&margin-w=8" alt="Trophies" />
 </p>
