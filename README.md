@@ -1,14 +1,15 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4,052c43&height=200&section=header&text=This%20is%20%20%20Parsa!&fontSize=45&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=200&section=header&text=This-is%20%20%20Parsa!&fontSize=45&fontAlignY=40" alt="header"/>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=22&pause=1000&color=00bcd4&width=430&lines=Flutter+Dev+%7C+Persian+Gulf+University+CS+Grad;Open+Source+Lover+%F0%9F%92%99;Dreamer+%F0%9F%8C%9F+Code+%F0%9F%92%BB+Creator" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=022E57&width=470&center=true&vCenter=true&lines=Flutter+Dev+%F0%9F%92%BB+%7C+Persian+Gulf+University+CS+Grad;Open+Source+Lover+%F0%9F%92%99;Dreamer+%F0%9F%8C%9F+%7C+Code+Creator" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,hive,figma,mongodb&perline=7" height="56" />
+  <img width="180" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter logo">
 </p>
 
 ---
@@ -27,7 +28,7 @@
   <img src="https://img.shields.io/badge/MVVM-023430?style=for-the-badge&logoColor=white"/>
 </p>
 
-- **Development**: Clean Architecture, Modular Apps, RESTful APIs, WebSockets, Push Notifications, MVVM, MVC 
+- **Development**: Clean Architecture, Modular Apps, RESTful APIs, WebSockets, Push Notifications , MVVM , MVC 
 - **State Management**: Provider, Bloc  
 - **Database**: Firebase, Hive, MongoDB  
 - **CI/CD**: GitHub Actions  
@@ -55,45 +56,47 @@
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parsard&show_icons=true&theme=nightowl" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=parsard&theme=nightowl&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parsard&show_icons=true&theme=nightowl" style="max-width:100%;" />
+  <img src="https://streak-stats.demolab.com?user=parsard&theme=nightowl&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📊 More Stats & Graphical Screens
 
-
-
-<!-- 🐍 Github Contribution Snake SVG (needs repo action setup, else remove) 
 <p align="center">
-  <img src="https://github.com/parsard/parsard/blob/output/github-contribution-grid-snake.svg" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsard&layout=compact&theme=nightowl" alt="Top Languages" />
+  <br><br>
+  <!-- Contribution Calendar -->
+  <p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=parsard&theme=react-dark" alt="Contribution Graph"/>
 </p>
--->
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=parsard&theme=dracula&no-bg=true&margin-w=8" alt="Trophies" />
+</p>
 
 ---
 
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/parsa-rood-0424bb27a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:parsaroodhastam@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/parsa-rood-0424bb27a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:parsaroodhastam@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 ## 📱 Featured Projects
 
+<!-- Replace links with your real repo links and add images if you wish! -->
 <p align="center">
-  <a href="https://github.com/parsard/weatherApp">
-    <img src="https://skillicons.dev/icons?i=flutter" height="30"/><br>
-    <b>Weather App</b>
-  </a>  
+  <a href="https://github.com/parsard/weatherApp"><img src="https://skillicons.dev/icons?i=flutter" height="30"/><br>
+  <b>Weather App</b></a>  
   <br><br>
-  <a href="https://github.com/parsard/ChatRoom">
-    <img src="https://skillicons.dev/icons?i=flutter" height="30"/><br>
-    <b>Awesome Chat App</b>
-  </a>
+  <a href="https://github.com/parsard/ChatRoom"><img src="https://skillicons.dev/icons?i=flutter" height="30"/><br>
+  <b>Awesome Chat App</b></a>
 </p>
 
 ---
@@ -102,7 +105,7 @@
 
 - 💭 “Code is like humor. When you have to explain it, it’s bad.”
 - 😎 I code better with coffee.
-- 🏃 Gym + frameworks = ❤️
+- 🏃 I love gym alongside learning frameworks.
 
 ---
 
