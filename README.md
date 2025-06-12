@@ -1,6 +1,6 @@
 <!-- Professional Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E3A8A&height=100&section=header&text=Parsa%20Roodbari&fontSize=40&fontColor=FFFFFF&font=Roboto" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E3A8A&height=100&section=header&text=Parsa%20Rood&fontSize=40&fontColor=FFFFFF&font=Roboto" alt="header"/>
 </p>
 
 <p align="center">
