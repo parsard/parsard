@@ -10,7 +10,7 @@
 
 ---
 
-## �️ Skills & Technologies
+## 🛠 Skills & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-1E3A8A?style=flat-square&logo=flutter&logoColor=FFFFFF"/>
@@ -31,15 +31,15 @@
 
 ---
 
-## � About Me
+## ℹ️ About Me
 
-**Parsa Roodbari**  
-*Computer Engineering Graduate, Persian Gulf University ��*  
+**Parsa Rood**  
+*Computer Engineering Graduate, Persian Gulf University 🇮🇷*  
 Passionate about crafting high-quality mobile applications with Flutter. Experienced in open-source contributions and always eager to explore cutting-edge technologies. Let's build impactful solutions together!
 
 ---
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parsard&show_icons=true&theme=onedark&hide_border=true" style="max-width:100%;" />
@@ -48,7 +48,7 @@ Passionate about crafting high-quality mobile applications with Flutter. Experie
 
 ---
 
-## � Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parsa-rood-0424bb27a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=FFFFFF"></a>
@@ -57,15 +57,30 @@ Passionate about crafting high-quality mobile applications with Flutter. Experie
 
 ---
 
-## � Featured Projects
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/parsard/weatherApp"><img src="https://skillicons.dev/icons?i=flutter" height="30"/><br>
-  <b>Weather App</b></a>  
-  <br>
-  <a href="https://github.com/parsard/ChatRoom"><img src="https://skillicons.dev/icons?i=flutter" height="30"/><br>
-  <b>Awesome Chat App</b></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/parsard/weatherApp">
+        <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
+        <br>
+        <b>Weather App</b>
+      </a>
+      <br>
+      <p>A sleek and modern weather application built with Flutter, featuring real-time weather updates and a clean UI.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/parsard/ChatRoom">
+        <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
+        <br>
+        <b>Awesome Chat App</b>
+      </a>
+      <br>
+      <p>A real-time chat application with Flutter, supporting WebSockets and push notifications for seamless communication.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
