@@ -63,15 +63,7 @@
 
 ## 📊 More Stats & Graphical Screens
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parsard&theme=github_dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsard&layout=compact&theme=nightowl" height="150" />
-  <br>
-  <img src="https://github-activity-graph.vercel.app/graph?username=parsard&theme=react-dark" height="200"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=parsard&theme=dracula&no-bg=true&margin-w=8" />
-</p>
+
 
 <!-- 🐍 Github Contribution Snake SVG (needs repo action setup, else remove) 
 <p align="center">
