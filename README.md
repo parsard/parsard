@@ -1,115 +1,75 @@
-<!-- Hero Banner -->
+<!-- Professional Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=200&section=header&text=This-is%20%20%20Parsa!&fontSize=45&fontAlignY=40" alt="header"/>
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=22&pause=1000&color=00bcd4&width=430&lines=Flutter+Dev+%7C+Persian+Gulf+University+CS+Grad;Open+Source+Lover+%F0%9F%92%99;Dreamer+%F0%9F%8C%9F+Code+%F0%9F%92%BB+Creator" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E3A8A&height=100&section=header&text=Parsa%20Roodbari&fontSize=40&fontColor=FFFFFF&font=Roboto" alt="header"/>
 </p>
 
 <p align="center">
-  <img width="180" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter logo">
+  <b>Flutter Developer | Computer Engineering Graduate | Open Source Enthusiast</b><br>
+  <i>Building innovative mobile solutions with clean architecture and modern technologies.</i>
 </p>
 
 ---
 
-## 🛠️ Skills & Tech
+## �️ Skills & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hive-yellow?style=for-the-badge&logo=hive&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVVM-023430?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-1E3A8A?style=flat-square&logo=flutter&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Dart-1E3A8A?style=flat-square&logo=dart&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Hive-FFD700?style=flat-square&logo=hive&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/MVVM-1E3A8A?style=flat-square&logoColor=FFFFFF"/>
 </p>
 
-- **Development**: Clean Architecture, Modular Apps, RESTful APIs, WebSockets, Push Notifications , MVVM , MVC 
-- **State Management**: Provider, Bloc  
-- **Database**: Firebase, Hive, MongoDB  
-- **CI/CD**: GitHub Actions  
+- **Development**: Clean Architecture, Modular Apps, RESTful APIs, WebSockets, Push Notifications, MVVM, MVC
+- **State Management**: Provider, Bloc
+- **Database**: Firebase, Hive, MongoDB
+- **CI/CD**: GitHub Actions
 
 ---
 
-## 🚀 About Me
+## � About Me
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://avatars.githubusercontent.com/u/70006552?v=4" width="100"/>
-    </td>
-    <td>
-      <b>Computer Engineering Grad @ Persian Gulf University 🇮🇷</b><br>
-      Flutter nerd & app design enthusiast.<br>
-      Always exploring new tech frontiers, especially in mobile and open source.<br>
-      ❤️ Let's build the future together!
-    </td>
-  </tr>
-</table>
+**Parsa Roodbari**  
+*Computer Engineering Graduate, Persian Gulf University ��*  
+Passionate about crafting high-quality mobile applications with Flutter. Experienced in open-source contributions and always eager to explore cutting-edge technologies. Let's build impactful solutions together!
 
 ---
 
-## 📈 My GitHub Stats
+## � GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parsard&show_icons=true&theme=nightowl" style="max-width:100%;" />
-  <img src="https://streak-stats.demolab.com?user=parsard&theme=nightowl&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parsard&show_icons=true&theme=onedark&hide_border=true" style="max-width:100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsard&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 📊 More Stats & Graphical Screens
+## � Connect With Me
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsard&layout=compact&theme=nightowl" alt="Top Languages" />
-  <br><br>
-  <!-- Contribution Calendar -->
-  <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=parsard&theme=react-dark" alt="Contribution Graph"/>
-</p>
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=parsard&theme=dracula&no-bg=true&margin-w=8" alt="Trophies" />
+  <a href="https://www.linkedin.com/in/parsa-rood-0424bb27a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=FFFFFF"></a>
+  <a href="mailto:parsaroodhastam@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=FFFFFF"></a>
 </p>
 
 ---
 
-## 🌐 Let's Connect!
+## � Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/parsa-rood-0424bb27a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:parsaroodhastam@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-## 📱 Featured Projects
-
-<!-- Replace links with your real repo links and add images if you wish! -->
 <p align="center">
   <a href="https://github.com/parsard/weatherApp"><img src="https://skillicons.dev/icons?i=flutter" height="30"/><br>
   <b>Weather App</b></a>  
-  <br><br>
+  <br>
   <a href="https://github.com/parsard/ChatRoom"><img src="https://skillicons.dev/icons?i=flutter" height="30"/><br>
   <b>Awesome Chat App</b></a>
 </p>
 
 ---
 
-## 🏝️ Fun & Personal
-
-- 💭 “Code is like humor. When you have to explain it, it’s bad.”
-- 😎 I code better with coffee.
-- 🏃 I love gym alongside learning frameworks.
-
----
-
-<!-- Banner footer (Optional): -->
+<!-- Professional Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E3A8A&height=80&section=footer&fontColor=FFFFFF&font=Roboto" alt="footer"/>
 </p>
