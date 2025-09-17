@@ -33,8 +33,8 @@
 
 
 - **Development**: Clean Architecture, Modular Apps, RESTful APIs, WebSockets, Push Notifications, MVVM, MVC
-- **State Management**: Provider, Bloc
-- **Database**: Firebase, Hive, MongoDB
+- **State Management**: Provider, Bloc, Riverpod
+- **Database**: Firebase, Hive, MongoDB, Drift
 - **CI/CD**: GitHub Actions
 
 ---
