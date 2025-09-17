@@ -50,9 +50,7 @@ Passionate about crafting high-quality mobile applications with Flutter. Experie
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parsard&show_icons=true&theme=onedark&hide_border=true" style="max-width:100%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsard&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parsard&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" style="max-width:80%; width:800px;" />
 
 </p>
 
