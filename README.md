@@ -73,10 +73,10 @@ Passionate about crafting high-quality mobile applications with Flutter. Experie
       <a href="https://github.com/parsard/barista_notes">
         <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
         <br>
-        <b>Weather App</b>
+        <b>Barista Note</b>
       </a>
       <br>
-      <p>A sleek and modern weather application built with Flutter, featuring real-time weather updates and a clean UI.</p>
+      <p>A sleek and modern Cafe POS windows App.</p>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/parsard/ChatRoom">
