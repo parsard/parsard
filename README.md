@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Riverpod-0EA5E9?style=flat-square&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/BLoC-2563EB?style=flat-square&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Provider-2563EB?style=flat-square&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Drift%20Database-0F766E?style=flat-square&logoColor=FFFFFF"/>
+
 
 </p>
 
