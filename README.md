@@ -22,7 +22,11 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/MVVM-1E3A8A?style=flat-square&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-4F46E5?style=flat-square&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Riverpod-0EA5E9?style=flat-square&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/BLoC-2563EB?style=flat-square&logoColor=FFFFFF"/>
 </p>
+
 
 - **Development**: Clean Architecture, Modular Apps, RESTful APIs, WebSockets, Push Notifications, MVVM, MVC
 - **State Management**: Provider, Bloc
