@@ -70,7 +70,7 @@ Passionate about crafting high-quality mobile applications with Flutter. Experie
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/parsard/weatherApp">
+      <a href="https://github.com/parsard/barista_notes">
         <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
         <br>
         <b>Weather App</b>
